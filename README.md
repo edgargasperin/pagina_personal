@@ -1,6 +1,6 @@
 # Edgar Gasperín
 
-¡Hola! Mi nombre es Edgar Gasperín, soy un investigador en Relatividad General que está por incorporarse al Instituto de Ciencias Nucleares de la UNAM (enero 2026).
+¡Hola! mi nombre es Edgar Gasperín, soy un investigador en Relatividad General que está por incorporarse al Instituto de Ciencias Nucleares de la UNAM (enero 2026).
 He creado esta página para presentarme con la comunidad estudiantil. Si eres un estudiante de Física o Matemáticas interesado en Relatividad te invito a echarle un vistazo a mi página personal.
 
 ## ¿Qué es la Relatividad Matemática?
@@ -27,6 +27,10 @@ Si estas interesado en hacer una tesis en alguno de estos temas ponte en contact
 ## Curso de Relatividad en la Facultad de Ciencias (2026)
 
 En febrero de 2026 comenzará el curso de Relatividad que impartiré en la Facultad de Ciencias de la UNAM. Aunque el curso será un curso estándar, presencial, usando el pizarron y siguiendo el temario oficial de la facultad de ciencias. Se incluirá un pequeño taller introductorio sobre el uso de xAct de Mathematica para realizar cálculos tensoriales. xAct es una herramienta que uso cotidianamente en mi investigación. No se trata de una herramienta numérica, sino de una herramienta de cálculo simbólico. Para saber más sobre algunas versiones de extendidas de este taller puedes consultar: [xAct] https://edgargasperin.github.io/xact-workshop/
+
+## Trayectoria
+
+Mi CV lo puedes consultar en esta página: https://edgargasperin.github.io/
 
 ## Publicaciones
 
