@@ -32,7 +32,11 @@ Esta región se llama **frontera conforme**. Utilizo técnicas geométricas y de
 El concepto de infinito ha sido fundamental en la historia de la física y las matemáticas. ¡Sin él, no existiría el cálculo diferencial!  
 Aunque está “muy lejos”, el infinito no es solo un concepto abstracto: es clave para definir cantidades físicas como la **masa** o la **radiación gravitacional** (ondas gravitacionales).  
 
-En cursos de geometría o cálculo probablemente hayas visto la versión Riemanniana de la frontera conforme: en la **proyección estereográfica**, el infinito del plano se mapea a un polo de la esfera. En Relatividad General, el infinito es más que un punto: es una **variedad** completa, lo que nos permite, por ejemplo, “hacer geometría en infinito”.
+En cursos de geometría o cálculo probablemente hayas visto la versión Riemanniana de la frontera conforme: en la **proyección estereográfica**, el infinito del plano se mapea a un polo de la esfera. En Relatividad General, el infinito es más que un punto: es una **variedad** completa, lo que nos permite, por ejemplo, “hacer geometría en infinito”. 
+
+Uno de los aspectos más bonitos, e inclusive lúdicos, de la Relatividad son los diagramas de espacio-tiempo. A los diagramas de espacio-tiempo donde representamos los infinitos se les conoce como diagramas de Penrose-Carter. Por ejemplo en esta figura puedes ver todo el espacio-tiempo de Schwarzschild (un agujero negro) con todos sus infinitos:
+
+![Schwarzschild](files/img/Schwarzschild.png)
 
 ## Temas de tesis y servicio social
 
