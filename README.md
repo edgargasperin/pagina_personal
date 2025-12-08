@@ -1,7 +1,8 @@
 # Página personal
 
 ¡Hola a todes! Soy Edgar Gasperín, investigador en Relatividad General y a partir de enero de 2026 me incorporaré al Instituto de Ciencias Nucleares de la UNAM.  
-He creado esta página para presentarme a la comunidad estudiantil. Si estudias Física o Matemáticas y te interesa la Relatividad, aquí encontrarás información sobre mi investigación, cursos y oportunidades de tesis y servicio social.
+
+Si estudias Física o Matemáticas y te interesa la Relatividad, aquí encontrarás información sobre mi investigación, cursos y oportunidades de tesis y servicio social.
 
 ## ¿Qué es la Relatividad Matemática?
 
@@ -37,6 +38,8 @@ En cursos de geometría o cálculo probablemente hayas visto la versión Riemann
 Uno de los aspectos más bonitos, e inclusive lúdicos, de la Relatividad son los diagramas de espacio-tiempo. A los diagramas de espacio-tiempo donde representamos los infinitos se les conoce como diagramas de Penrose-Carter. Por ejemplo en esta figura puedes ver todo el espacio-tiempo de Schwarzschild (un agujero negro) con todos sus infinitos:
 
 ![Schwarzschild](/files/img/Schwarzchild_penrose.png)
+
+En ese diagrama se representa infinito espacial ($i^0$), temporal ($i^\pm$) y nulo ($\mathscr{I}^{\pm}$), así como los horizontes ($\mathcal{H}^\pm$) y la singularidad (zig-zag).
 
 ## Temas de tesis y servicio social
 
