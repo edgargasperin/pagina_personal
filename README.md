@@ -35,18 +35,14 @@ Aunque está “muy lejos”, el infinito no es solo un concepto abstracto: es c
 
 En cursos de geometría o cálculo probablemente hayas visto la versión Riemanniana de la frontera conforme: en la proyección estereográfica, el infinito del plano se mapea a un polo de la esfera. En Relatividad General, el infinito es más que un punto: es una variedad, lo que nos permite, por ejemplo, “hacer geometría en infinito”. Otro ejemplo clásico es la geometría hiperbólica del disco de Poincaré, ilustrado en los trabajos de M. C. Escher:
 
-<figure style="text-align:center;">
+
+<div style="text-align:center">
   <img src="/files/img/Escher_palais.jpeg" alt="Escher" width="400"/>
-  <figcaption style="font-size:0.3em; margin-top:5px;"> 
-    Imagen tomada de la página web 
-    <a href="https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell" target="_blank">
-      Escher in Het Paleis
-    </a>
-  </figcaption>
-</figure>
+</div>
 
 En ‘Circle Limit IV’ o ‘Heaven and Hell’ Escher muestra como se vería un mosaico (plano) de ángeles y demonios representados en el disco de Poincaré; los ángeles y demónios en la orilla del círculo están en "infinito".
-Imagen tomada de la página web [Escher in Het Paleis](https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell)
+<small> Imagen tomada de la página web [Escher in Het Paleis](https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell) </small>
+
 
 De manera análoga en Relatividad tenemos los diagramas de Penrose-Carter que nos permiten “comprimir” la extensión infinita del espacio-tiempo en un solo dibujo; Por ejemplo, la siguiente figura representa un espacio-tiempo que contiene un agujero negro:
 
@@ -55,7 +51,7 @@ De manera análoga en Relatividad tenemos los diagramas de Penrose-Carter que no
 </div>
 
 En ese diagrama se representa infinito espacial ($i^0$), temporal ($i^\pm$) y nulo ($\mathscr{I}^{\pm}$), así como los horizontes ($\mathcal{H}^\pm$) y la singularidad (zig-zag) para el expacio-tiempo de Schwarzchild.
-Imagen tomada del libro [conformal-methods](https://doi.org/10.1017/9781009291309).
+<small> Imagen tomada del libro [conformal-methods](https://doi.org/10.1017/9781009291309).</small>
 
 ## Temas de tesis y servicio social
 
