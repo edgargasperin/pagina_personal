@@ -15,7 +15,7 @@ En cuanto a aproximaciones, podemos usar **métodos numéricos**, lo que da orig
 
 Por otro lado, la **Relatividad Matemática** se dedica al estudio abstracto de las soluciones de las ecuaciones de Einstein, combinando **geometría diferencial** y **teoría de ecuaciones diferenciales parciales**. Todas estas áreas se complementan para entender a fondo el comportamiento de las soluciones de esta teoría centenaria.
 
-## ¿Quién soy y de qué trata mi investigación?
+## ¿De qué trata mi investigación?
 
 Mi investigación se centra en la **región en infinito** del espacio-tiempo.  
 En Relatividad General, existen distintos tipos de infinito:  
