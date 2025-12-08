@@ -33,9 +33,13 @@ Esta región se llama **frontera conforme**. Utilizo técnicas geométricas y de
 El concepto de infinito ha sido fundamental en la historia de la física y las matemáticas. ¡Sin él, no existiría el cálculo diferencial!  
 Aunque está “muy lejos”, el infinito no es solo un concepto abstracto: es clave para definir cantidades físicas como la masa o la radiación gravitacional (ondas gravitacionales).  
 
-En cursos de geometría o cálculo probablemente hayas visto la versión Riemanniana de la frontera conforme: en la proyección estereográfica, el infinito del plano se mapea a un polo de la esfera. En Relatividad General, el infinito es más que un punto: es una variedad, lo que nos permite, por ejemplo, “hacer geometría en infinito”. 
+En cursos de geometría o cálculo probablemente hayas visto la versión Riemanniana de la frontera conforme: en la proyección estereográfica, el infinito del plano se mapea a un polo de la esfera. En Relatividad General, el infinito es más que un punto: es una variedad, lo que nos permite, por ejemplo, “hacer geometría en infinito”. Otro ejemplo clásico es la geometría hiperbólica del disco de Poincaré, ilustrado en los trabajos de M. C. Escher:
 
-Uno de los aspectos más fascinantes —y hasta divertidos— de la Relatividad son los diagramas de espacio-tiempo. Algunos de estos diagramas nos permiten “comprimir” el infinito en un solo dibujo; a estos se les llama diagramas de Penrose-Carter. Por ejemplo, la siguiente figura representa un espacio-tiempo que contiene un agujero negro:
+![Escher](/files/img/Escher.png)
+
+En ‘Circle Limit IV’ o ‘Heaven and Hell’ Escher muestra como se vería un mosaico (plano) de ángeles y demonios representados en el disco de Poincaré; los ángeles y demónios en la orilla del círculo están en "infinito".
+
+De manera análoga en Relatividad tenemos los diagramas de Penrose-Carter que nos permiten “comprimir” la extensión infinita del espacio-tiempo en un solo dibujo; Por ejemplo, la siguiente figura representa un espacio-tiempo que contiene un agujero negro:
 
 ![Schwarzschild](/files/img/Schwarzchild_penrose.png)
 
