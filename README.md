@@ -36,7 +36,7 @@ En cursos de geometría o cálculo probablemente hayas visto la versión Riemann
 
 Uno de los aspectos más bonitos, e inclusive lúdicos, de la Relatividad son los diagramas de espacio-tiempo. A los diagramas de espacio-tiempo donde representamos los infinitos se les conoce como diagramas de Penrose-Carter. Por ejemplo en esta figura puedes ver todo el espacio-tiempo de Schwarzschild (un agujero negro) con todos sus infinitos:
 
-![Schwarzschild](/files/img/Schwarzschild.png)
+![Schwarzschild](/files/img/Schwarzchild_penrose.png)
 
 ## Temas de tesis y servicio social
 
