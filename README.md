@@ -1,16 +1,14 @@
-# Página de inicio de Edgar Gasperín
-
-Soy investigador de la FCT en el Centro de Astrofísica y Gravitación (CENTRA) en el Instituto Superior Técnico en Lisboa (IST)
-
-Mi investigación está relacionada con el análisis de propiedades globales de soluciones de las ecuaciones de campo de Einstein y la inclusión de la frontera conforme en el problema de valor inicial en Relatividad General.
+# Edgar Gasperín
 
 # Trayectoria académica
 
 ## Posición actual 
 
-Beca de la Fundação para a Ciência e a Tecnologia (FCT) en el Instituto Superior Técnico (CENTRA-IST)
+Instituto de Ciencias Nucleares
 
 ## Posiciones anteriores
+
+FCT-fellow de la Fundação para a Ciência e a Tecnologia (FCT) en el Instituto Superior Técnico (IST)
 
 Investigador posdoctoral en el Institut de Mathématiques de Bourgogne - Dijon, Francia (IMB)
 
@@ -22,7 +20,7 @@ PhD en Matemáticas, Queen Mary University of London, Londres, Reino Unido.
 Thesis: https://qmro.qmul.ac.uk/xmlui/handle/123456789/25820
 
 Licenciatura en Física, Universidad Nacional Autónoma de México, CDMX, México.
-Dissertation: https://repositorio.unam.mx/contenidos/411870
+Tesis: https://repositorio.unam.mx/contenidos/411870
 
 ## Supervisión
 
@@ -47,6 +45,8 @@ Firoz Khan. Proyecto de primer año de máster @ IMB
 Ghewa Dorra. Proyecto de primer año de máster @ IMB
 
 ## Docencia
+
+2026 Relatividad. Facultad de Ciencias @ UNAM
 
 2024 Waves and Oscillations. Curso de primer año de licenciatura (>120 estudiantes) @ IST
 
