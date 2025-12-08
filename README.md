@@ -34,7 +34,7 @@ En cursos de geometría o cálculo probablemente hayas visto la versión Riemann
 
 ## Temas de tesis y servicio social
 
-Si quieres realizar una tesis en alguno de estos temas, no dudes en contactarme. Hay oportunidades tanto en investigación teórica como en colaboración con relativistas numéricos.
+Si quieres realizar una tesis en alguno de estos temas, no dudes en contactarme. 
 
 ## Curso de Relatividad en la Facultad de Ciencias (2026)
 
