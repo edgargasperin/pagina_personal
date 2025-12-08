@@ -36,7 +36,7 @@ Aunque está “muy lejos”, el infinito no es solo un concepto abstracto: es c
 En cursos de geometría o cálculo probablemente hayas visto la versión Riemanniana de la frontera conforme: en la proyección estereográfica, el infinito del plano se mapea a un polo de la esfera. En Relatividad General, el infinito es más que un punto: es una variedad, lo que nos permite, por ejemplo, “hacer geometría en infinito”. Otro ejemplo clásico es la geometría hiperbólica del disco de Poincaré, ilustrado en los trabajos de M. C. Escher:
 
 <div style="text-align:center;">
-  <img src="img/Escher_palais.jpeg" alt="Escher" width="400"/>
+  <img src="/files/img/Escher_palais.jpeg" alt="Escher" width="400"/>
 </div>
 
 En ‘Circle Limit IV’ o ‘Heaven and Hell’ Escher muestra como se vería un mosaico (plano) de ángeles y demonios representados en el disco de Poincaré; los ángeles y demónios en la orilla del círculo están en "infinito".
