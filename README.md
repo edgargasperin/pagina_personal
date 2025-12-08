@@ -1,5 +1,8 @@
 # Edgar Gasperín
 
+¡Hola! mi nombre es Edgar Gasperín, soy un investigador en Relatividad General que está por incorporarse al Instituto de Ciencias Nucleares de la UNAM (enero 2026).
+He creado esta página para presentarme con la comunidad estudiantil. Si eres un estudiante de Física o Matemáticas interesado en Relatividad te invito a echarle un vistazo a mi página personal.
+
 # Trayectoria académica
 
 ## Posición actual 
