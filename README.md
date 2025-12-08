@@ -37,8 +37,7 @@ En cursos de geometría o cálculo probablemente hayas visto la versión Riemann
 
 <figure style="text-align:center;">
   <img src="/files/img/Escher_palais.jpeg" alt="Escher" width="400"/>
-  <figcaption style="font-size:0.8em; margin-top:5px;">
-    <br/>
+  <figcaption style="font-size:0.3em; margin-top:5px;"> 
     Imagen tomada de la página web 
     <a href="https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell" target="_blank">
       Escher in Het Paleis
