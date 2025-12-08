@@ -55,7 +55,7 @@ En ese diagrama se representa infinito espacial ($i^0$), temporal ($i^\pm$) y nu
 
 ## Temas de tesis y servicio social
 
-Si quieres realizar una tesis o servicio social en alguno de estos temas, no dudes en contactarme. 
+Si quieres realizar una tesis o servicio social en alguno de estos temas, no dudes en contactarme en e[dot]gasperin[at]ciencias[dot]unam[dot]mx
 
 ## Curso de Relatividad en la Facultad de Ciencias (2026)
 
