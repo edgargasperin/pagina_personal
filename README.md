@@ -3,97 +3,40 @@
 ¡Hola! Mi nombre es Edgar Gasperín, soy un investigador en Relatividad General que está por incorporarse al Instituto de Ciencias Nucleares de la UNAM (enero 2026).
 He creado esta página para presentarme con la comunidad estudiantil. Si eres un estudiante de Física o Matemáticas interesado en Relatividad te invito a echarle un vistazo a mi página personal.
 
-## ¿Qué es la Relatividad (Matemática)?
+## ¿Qué es la Relatividad Matemática?
+
+ La Relatividad General es la teoría que describe la gravedad a través de la geometría del espacio-tiempo y, además de ser uno de los pilares de la física actual, es considerada por muchos como un estandarte de las matemáticas aplicadas.
+ De manera concisa las ecuaciones que rigen al espacio-tiempo son las ecuaciones de Einstein, las cuales pueden formularse como un sistema de ecuaciones diferenciales parciales no lineales. Por tanto,  una manera de clasificar las diferentes ramas de la Relatividad es preguntarse ¿cómo se resuelven las ecuaciones de Einstein?
+ Como la historia de cualquier otra ecuación diferencial no lineal al principio se encontraron soluciones exactas de manera explícita de las cuales aprendimos muchísimas cosa pero estas soluciones son válidas en casos muy simplificados (muchas simetrías) y posteriormente nos dimos cuenta que para obtener soluciones más complejas (y realistas) hay dos opciones:  hacer alguna aproximación o bién dejar la idea de obtener soluciones explícitas y obtener resultados abstractos (teoremas) sobre dichas soluciones. En el caso de las aproximaciones podemos por ejemplo considerar aproximaciones numéricas, lo cual da origen al área de Relatividad Numérica o introducir aproximaciones a nivel de las ecuaciones por ejemplo considerar la linearización de las ecuaciones de Einstein, lo cual da origen por ejemplo a la teoría de perturbaciones lineales en Relatividad General. Estas dos áreas son algunos de los pilares actuales para el estudio de ondas gravitacionales. Finalmente, la Relatividad Matemática se dedica al estudio abstracto de soluciones a las ecuaciones de Einstein combinando principalmente teoría de ecuaciones diferenciales parciales y geometría diferencial.  Todas estas áreas de Relatividad se complementan entre sí para entender el comportamiento de soluciones de esta teoría centenaria.
+
+
+##  ¿Quién soy y de que trata mi investigación?
+
+Mi investigación se centra en el estudio de la región en infinito en Relatividad General.
+Resulta que en Relatividad General hay varios tipos de infinito, un infinito en el espacio (muy, muy lejos), un infinito en el tiempo (muy, muy temprano o tarde) y un infinito en la dirección en la que se propaga la luz (muy "lejos" en direcciones nulas). A esta región se le conoce en Relatividad como la frontera conforme. Mi investigación en Relatividad Matemática utiliza tecnicas geométricas y de teoría de ecuaciones diferenciales parciales para entender esta región del espacio-tiempo. Asimismo, colaboro con Relativistas Numéricos en la investigación de la frontera conforme a través de formulaciones novedosas de las ecuaciones de Einstein que permitan accesar a esta región en infinito.
+
+## La frontera conforme: la última frontera
+
+En la historía de la física y las matemáticas el concepto de infinito ha sido clave. ¡Sin el no existiría el cálculo diferencial!
+A pesar de estar "muy lejos", la región en infinito, no es sólo de interés puramente matemático sino que juega un papel muy importante en conceptos físicos clave. Por ejemplo las diferentes nociones de importancia física como la masa y radiación gravitacional (ondas gravitacionales) están definidas de manera rigurosa en alguno de los infinitos del espacio-tiempo. Probablemente en tus cursos de geometría o de cálculo ya te has topado con la "versión Riemanniana" de la frontera conforme en Relatividad: En la proyección estereográfica la región en infinito en el plano se mapea a uno de los polos de la esfera. La diferencia con Relatividad General es que, a diferencia del caso Riemanniano, la región en infinito no es sólo un punto sino una variedad. Esto nos permite por ejemplo "hacer geometría en infinito".
 
 ## Temas de tesis y servicio social
 
-## Curso de Relatividad en la Facultad de Ciencias 2026
+Si estas interesado en hacer una tesis en alguno de estos temas ponte en contacto conmigo. 
 
+## Curso de Relatividad en la Facultad de Ciencias (2026)
 
-## CV
+En febrero de 2026 comenzará el curso de Relatividad que impartiré en la Facultad de Ciencias de la UNAM. Aunque el curso será un curso estándar, presencial, usando el pizarron y siguiendo el temario oficial de la facultad de ciencias. Se incluirá un pequeño taller introductorio sobre el uso de xAct de Mathematica para realizar cálculos tensoriales. xAct es una herramienta que uso cotidianamente en mi investigación. No se trata de una herramienta numérica, sino de una herramienta de cálculo simbólico. Para saber más sobre algunas versiones de extendidas de este taller puedes consultar: [xAct] https://edgargasperin.github.io/xact-workshop/
 
-### Posición 
+## Publicaciones
 
-Investigador en el grupo de Gravitación y Teoría de Campos del Instituto de Ciencias Nucleares, UNAM
+Para saber más sobre mi investigación puedes consultar mis artículos aquí:
 
-### Posiciones anteriores
+[ORCID](https://orcid.org/0000-0003-1170-5121)
 
-FCT-fellow de la Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) en el Instituto Superior Técnico [(IST)](https://tecnico.ulisboa.pt/)
+[Arxiv](https://arxiv.org/search/?searchtype=author&query=Gasperin%2C+E)
 
-Investigador posdoctoral en el Institut de Mathématiques de Bourgogne - Dijon, Francia [(IMB)](https://math.u-bourgogne.fr/)
-
-Investigador posdoctoral en el Instituto Superior Técnico - Lisboa, Portugal [(IST)](https://tecnico.ulisboa.pt/)
-
-### Educación
-
-PhD en Matemáticas, Queen Mary University of London, Londres, Reino Unido.  
-[Thesis](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25820)
-
-Licenciatura en Física, Universidad Nacional Autónoma de México, CDMX, México.  
-[Tesis](https://repositorio.unam.mx/contenidos/411870)
-
-### Supervisión
-
-Dr Miguel Duarte. Proyecto posdoctoral @ IST
-
-Dr. Mariem Magdy Ali Mohamed. Proyecto posdoctoral @ IST
-
-Christian Peterson. Tesis de doctorado @ IST
-
-Rafael Pinto. Tesis de maestría @ IST
-
-Francisco Pais. Tesis de maestría @ IST
-
-Manuel Ratola. Tesis de licenciatura @ IST
-
-Ângela de Oliveira Rodrigues. Tesis de licenciatura @ IST
-
-João Dinis Álvarez. Proyecto Gulbenkian @ IST
-
-Firoz Khan. Proyecto de primer año de máster @ IMB
-
-Ghewa Dorra. Proyecto de primer año de máster @ IMB
-
-### Docencia
-
-2026 Relatividad. Facultad de Ciencias @ UNAM
-
-2024 Waves and Oscillations. Curso de primer año de licenciatura (>120 estudiantes) @ IST
-
-2022-2023 Black holes and gravitational waves. Curso de maestría y doctorado @ IST
-
-2021-2022 Black holes and gravitational waves. Curso de maestría y doctorado @ IST
-
-2020 & 2021 Curso intensivo sobre el uso de xAct en Mathematica @ IST & @ IMB
-
-2024 Curso corto sobre el uso de xAct en la División de Gravitación y Física Matemática (DGFM) de la Sociedad Mexicana de Física (SMF) @ Online
-
-### Becas
-
-FCT - PeX R&D grant — beca de proyecto exploratorio para contratar un postdoc.
-
-FCT Research Fellowship — empleo de investigación de 6 años.
-
-CONACyT beca doctoral — para estudios de posgrado en el extranjero.
-
-Beca complementaria SEP para doctorado — para estudios de posgrado en el extranjero.
-
-### Alcance internacional
-
-Co-organizador de *At the Interface of Mathematical Relativity and Astrophysics* (22w5025) @ Banff  
-[conference website](https://www.birs.ca/events/2022/5-day-workshops/22w5025)
-
-Co-organizador del *Joint Online Mathematical Relativity Colloquium* @ online  
-[colloquium website](https://jomarec.org/about-us/)
-
-Miembro de la *Hyperboloidal Research Network* @ online  
-[Hyp Website](https://hyperboloid.al/people/)
-
-Miembro del comité local organizador del *GWverse global meeting* @ Lisboa  
-[conference website](https://gwverse.tecnico.ulisboa.pt/news/?id=76)
-
-Editor de tema en el número especial “Quasi-Normal Modes, Non-Selfadjoint Operators and Pseudospectrum: an Interdisciplinary Approach” @ online  
-[Website](https://www.frontiersin.org/research-topics/57195/quasi-normal-modes-non-selfadjoint-operators-and-pseudospectrum-an-interdisciplinary-approach)
+## Charlas de investigación
 
 Algunas de mis charlas de investigación grabadas se pueden encontrar aquí:
 
@@ -103,13 +46,7 @@ Algunas de mis charlas de investigación grabadas se pueden encontrar aquí:
 
 [Video F-Ciencias UNAM](https://www.facebook.com/matefcienciasunam/videos/333825669643721/)
 
-### Publicaciones
-
-[ORCID](https://orcid.org/0000-0003-1170-5121)
-
-[Arxiv](https://arxiv.org/search/?searchtype=author&query=Gasperin%2C+E)
-
-### Divulgación
+## Divulgación
 
 Charla de divulgación en la Agencia Espacial Mexicana (México)  
 [Video](https://www.gob.mx/aem/videos/seminario-agujeros-negros-y-efectos-relativistas-en-viajes-espaciales-parte-i)
