@@ -12,9 +12,9 @@ Las ecuaciones que describen el espacio-tiempo son las ecuaciones de Einstein, u
 
 Al inicio, se encontraron soluciones exactas que nos enseñaron muchísimo, pero eran válidas solo en casos muy simplificados con muchas simetrías. Para abordar situaciones más complejas y realistas hay dos caminos: hacer aproximaciones o estudiar propiedades abstractas de las soluciones mediante teoremas.
 
-En cuanto a "aproximaciones" (entre comillas porque los resultados son extremadamente precisos), podemos usar métodos numéricos, lo que da origen a la **Relatividad Numérica**, o simplificar las ecuaciones, por ejemplo mediante su linearización, que conduce a la teoría de perturbaciones lineales. Ambas áreas son hoy fundamentales para estudiar ondas gravitacionales. 
+En cuanto a "aproximaciones" (entre comillas porque los resultados son extremadamente precisos), podemos usar métodos numéricos, lo que da origen a la Relatividad Numérica, o simplificar las ecuaciones, por ejemplo mediante su linearización, que conduce a la teoría de perturbaciones lineales. Ambas áreas son hoy fundamentales para estudiar ondas gravitacionales. 
 
-Por otro lado, la **Relatividad Matemática** se dedica al estudio abstracto de las soluciones de las ecuaciones de Einstein, combinando geometría diferencial y teoría de ecuaciones diferenciales parciales. Si quieres consultar un artículo sobre los resultados clave de la Relatividad Matemática en el estudio de las ondas gravitacionales, haz clic aquí: [GWmaths](https://www.ams.org/publications/journals/notices/201707/rnoti-p684.pdf)
+Por otro lado, la Relatividad Matemática se dedica al estudio abstracto de las soluciones de las ecuaciones de Einstein, combinando geometría diferencial y teoría de ecuaciones diferenciales parciales. Si quieres consultar un artículo sobre los resultados clave de la Relatividad Matemática en el estudio de las ondas gravitacionales, haz clic aquí: [GWmaths](https://www.ams.org/publications/journals/notices/201707/rnoti-p684.pdf)
 
 Todas estas áreas no están aisladas si no que se complementan entre sí para entender a fondo el comportamiento de las soluciones de esta teoría centenaria.
 
