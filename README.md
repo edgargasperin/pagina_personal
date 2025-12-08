@@ -23,7 +23,7 @@ Mi investigación se centra en la **región en infinito** del espacio-tiempo.
 En Relatividad General, existen distintos tipos de infinito:  
 - un **infinito espacial** (muy, muy lejos),  
 - un **infinito temporal** (muy temprano o muy tardío),  
-- y un **infinito nulo** (en las direcciones por las que viaja la luz).  
+- y un **infinito nulo** (un infinito en las "direcciones" por las que viaja la luz).  
 
 Esta región se llama **frontera conforme**. Utilizo técnicas geométricas y de ecuaciones diferenciales parciales para entender estas zonas del espacio-tiempo. Además, colaboro con relativistas numéricos para estudiar la frontera conforme mediante formulaciones de las ecuaciones de Einstein que permitan acceder a estas regiones “en el infinito”.
 
