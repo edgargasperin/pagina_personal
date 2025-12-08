@@ -39,7 +39,7 @@ Uno de los aspectos más bonitos, e inclusive lúdicos, de la Relatividad son lo
 
 ![Schwarzschild](/files/img/Schwarzchild_penrose.png)
 
-En ese diagrama se representa infinito espacial ($i^0$), temporal ($i^\pm$) y nulo ($\mathscr{I}^{\pm}$), así como los horizontes ($\mathcal{H}^\pm$) y la singularidad (zig-zag).
+En ese diagrama se representa infinito espacial ($i^0$), temporal ($i^\pm$) y nulo ($\mathscr{I}^{\pm}$), así como los horizontes ($\mathcal{H}^\pm$) y la singularidad (zig-zag) para el espacio-tiempo de Schwarzschild.
 
 ## Temas de tesis y servicio social
 
