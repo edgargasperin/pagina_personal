@@ -1,35 +1,42 @@
 # Edgar Gasperín
 
-¡Hola! mi nombre es Edgar Gasperín, soy un investigador en Relatividad General que está por incorporarse al Instituto de Ciencias Nucleares de la UNAM (enero 2026).
+¡Hola! Mi nombre es Edgar Gasperín, soy un investigador en Relatividad General que está por incorporarse al Instituto de Ciencias Nucleares de la UNAM (enero 2026).
 He creado esta página para presentarme con la comunidad estudiantil. Si eres un estudiante de Física o Matemáticas interesado en Relatividad te invito a echarle un vistazo a mi página personal.
 
-# Trayectoria académica
+## ¿Qué es la Relatividad (Matemática)?
 
-## Posición actual 
+## Temas de tesis y servicio social
 
-Investigador en el grupo de Gravitación y Teoría de Campos del Instituto de Ciencias Nucleares UNAM
+## Curso de Relatividad en la Facultad de Ciencias 2026
 
-## Posiciones anteriores
 
-FCT-fellow de la Fundação para a Ciência e a Tecnologia (FCT) en el Instituto Superior Técnico (IST)
+## CV
 
-Investigador posdoctoral en el Institut de Mathématiques de Bourgogne - Dijon, Francia (IMB)
+### Posición 
 
-Investigador posdoctoral en el Instituto Superior Técnico - Lisboa, Portugal (IST)
+Investigador en el grupo de Gravitación y Teoría de Campos del Instituto de Ciencias Nucleares, UNAM
 
-## Educación
+### Posiciones anteriores
 
-PhD en Matemáticas, Queen Mary University of London, Londres, Reino Unido.
-Thesis: https://qmro.qmul.ac.uk/xmlui/handle/123456789/25820
+FCT-fellow de la Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) en el Instituto Superior Técnico [(IST)](https://tecnico.ulisboa.pt/)
 
-Licenciatura en Física, Universidad Nacional Autónoma de México, CDMX, México.
-Tesis: https://repositorio.unam.mx/contenidos/411870
+Investigador posdoctoral en el Institut de Mathématiques de Bourgogne - Dijon, Francia [(IMB)](https://math.u-bourgogne.fr/)
 
-## Supervisión
+Investigador posdoctoral en el Instituto Superior Técnico - Lisboa, Portugal [(IST)](https://tecnico.ulisboa.pt/)
+
+### Educación
+
+PhD en Matemáticas, Queen Mary University of London, Londres, Reino Unido.  
+[Thesis](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25820)
+
+Licenciatura en Física, Universidad Nacional Autónoma de México, CDMX, México.  
+[Tesis](https://repositorio.unam.mx/contenidos/411870)
+
+### Supervisión
 
 Dr Miguel Duarte. Proyecto posdoctoral @ IST
 
-Dr. Mariem Magdy Ali Mohamed. Proyecto posdoctoral @IST
+Dr. Mariem Magdy Ali Mohamed. Proyecto posdoctoral @ IST
 
 Christian Peterson. Tesis de doctorado @ IST
 
@@ -47,7 +54,7 @@ Firoz Khan. Proyecto de primer año de máster @ IMB
 
 Ghewa Dorra. Proyecto de primer año de máster @ IMB
 
-## Docencia
+### Docencia
 
 2026 Relatividad. Facultad de Ciencias @ UNAM
 
@@ -61,57 +68,57 @@ Ghewa Dorra. Proyecto de primer año de máster @ IMB
 
 2024 Curso corto sobre el uso de xAct en la División de Gravitación y Física Matemática (DGFM) de la Sociedad Mexicana de Física (SMF) @ Online
 
-## Becas
+### Becas
 
-FCT - PeX R&D grant -- beca de proyecto exploratorio para contratar un postdoc.
+FCT - PeX R&D grant — beca de proyecto exploratorio para contratar un postdoc.
 
-FCT Research Fellowship -- empleo de investigación de 6 años.
+FCT Research Fellowship — empleo de investigación de 6 años.
 
-CONACyT beca doctoral -- para estudios de posgrado en el extranjero.
+CONACyT beca doctoral — para estudios de posgrado en el extranjero.
 
-Beca complementaria SEP para doctorado -- para estudios de posgrado en el extranjero.
+Beca complementaria SEP para doctorado — para estudios de posgrado en el extranjero.
 
-## Alcance internacional
+### Alcance internacional
 
-Co-organizador de At the Interface of Mathematical Relativity and Astrophysics (22w5025) @ Banff
-conference website: https://www.birs.ca/events/2022/5-day-workshops/22w5025
+Co-organizador de *At the Interface of Mathematical Relativity and Astrophysics* (22w5025) @ Banff  
+[conference website](https://www.birs.ca/events/2022/5-day-workshops/22w5025)
 
-Co-organizador del Joint Online Mathematical Relativity Colloquium @ online
-colloquium website: https://jomarec.org/about-us/
+Co-organizador del *Joint Online Mathematical Relativity Colloquium* @ online  
+[colloquium website](https://jomarec.org/about-us/)
 
-Miembro de la Hyperboloidal Research Network @ online
-Hyp Website: https://hyperboloid.al/people/
+Miembro de la *Hyperboloidal Research Network* @ online  
+[Hyp Website](https://hyperboloid.al/people/)
 
-Miembro del comité local organizador del GWverse global meeting @ Lisboa
-conference website: https://gwverse.tecnico.ulisboa.pt/news/?id=76
+Miembro del comité local organizador del *GWverse global meeting* @ Lisboa  
+[conference website](https://gwverse.tecnico.ulisboa.pt/news/?id=76)
 
-Editor de tema en el número especial “Quasi-Normal Modes, Non-Selfadjoint Operators and Pseudospectrum: an Interdisciplinary Approach” @ online
-Website: https://www.frontiersin.org/research-topics/57195/quasi-normal-modes-non-selfadjoint-operators-and-pseudospectrum-an-interdisciplinary-approach
+Editor de tema en el número especial “Quasi-Normal Modes, Non-Selfadjoint Operators and Pseudospectrum: an Interdisciplinary Approach” @ online  
+[Website](https://www.frontiersin.org/research-topics/57195/quasi-normal-modes-non-selfadjoint-operators-and-pseudospectrum-an-interdisciplinary-approach)
 
 Algunas de mis charlas de investigación grabadas se pueden encontrar aquí:
 
-Video - Royal Society London: https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X
+[Video - Royal Society London](https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X)
 
-Video - CENTRA seminar Lisbon: https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s
+[Video - CENTRA seminar Lisbon](https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s)
 
-Video F-Ciencias UNAM: https://www.facebook.com/matefcienciasunam/videos/333825669643721/
+[Video F-Ciencias UNAM](https://www.facebook.com/matefcienciasunam/videos/333825669643721/)
 
-## Publicaciones
+### Publicaciones
 
-ORCID: https://orcid.org/0000-0003-1170-5121
+[ORCID](https://orcid.org/0000-0003-1170-5121)
 
-Arxiv: https://arxiv.org/search/?searchtype=author&query=Gasperin%2C+E
+[Arxiv](https://arxiv.org/search/?searchtype=author&query=Gasperin%2C+E)
 
-## Divulgación
+### Divulgación
 
-Charla de divulgación en la Agencia Espacial Mexicana (México)
-Video: https://www.gob.mx/aem/videos/seminario-agujeros-negros-y-efectos-relativistas-en-viajes-espaciales-parte-i
+Charla de divulgación en la Agencia Espacial Mexicana (México)  
+[Video](https://www.gob.mx/aem/videos/seminario-agujeros-negros-y-efectos-relativistas-en-viajes-espaciales-parte-i)
 
-Entrevista en la Agencia Espacial Mexicana (México)
-Video: http://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=989
+Entrevista en la Agencia Espacial Mexicana (México)  
+[Video](http://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=989)
 
-Participación en Radio UNAM (México)
-website: https://www.radiopodcast.unam.mx/podcast/audio/18778
+Participación en Radio UNAM (México)  
+[website](https://www.radiopodcast.unam.mx/podcast/audio/18778)
 
 Charla de divulgación en el Planetario de Orizaba (México).
 
@@ -121,13 +128,5 @@ Charla de divulgación en NAPE skills factory (Lisboa).
 
 Charla en VIII Jornadas de Engenharia Física en IST (Lisboa).
 
-Mesa redonda en VIII Jornadas de Engenharia Física en IST (Lisboa).
-Video: https://www.youtube.com/watch?v=YA02G94OeV0
-
-Minicurso en la 11th School on Astrophysics and Gravitation (Lisboa)
-website: https://centra.tecnico.ulisboa.pt/network/eag11
-
-## Workshop sobre xAct-Mathematica
-
-El material del curso intensivo de xAct que he impartido puede encontrarse aquí:
-website: https://edgargasperin.github.io/xact-workshop/
+Mesa redonda en VIII Jornadas de Engenharia Física en IST (Lisboa).  
+[Video](https://www.youtube.com/watch?v=YA02G94OeV0)
