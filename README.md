@@ -1,6 +1,6 @@
-# ¡Bienvenides todes!
+# Página personal
 
-¡Hola! Soy Edgar Gasperín, investigador en Relatividad General y a partir de enero de 2026 me incorporaré al Instituto de Ciencias Nucleares de la UNAM.  
+¡Hola a todes! Soy Edgar Gasperín, investigador en Relatividad General y a partir de enero de 2026 me incorporaré al Instituto de Ciencias Nucleares de la UNAM.  
 He creado esta página para presentarme a la comunidad estudiantil. Si estudias Física o Matemáticas y te interesa la Relatividad, aquí encontrarás información sobre mi investigación, cursos y oportunidades de tesis y servicio social.
 
 ## ¿Qué es la Relatividad Matemática?
