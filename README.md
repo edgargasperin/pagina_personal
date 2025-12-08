@@ -68,7 +68,7 @@ Para conocer algunas versiones extendidas del taller, consulta: [xAct](https://e
 
 ## Trayectoria
 
-Puedes consultar mi CV en esta página: https://edgargasperin.github.io/
+Puedes consultar mi CV en el siguiente link:  [CV](https://edgargasperin.github.io/)
 
 ## Publicaciones
 
