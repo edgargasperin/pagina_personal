@@ -4,7 +4,7 @@
 
 ## Posición actual 
 
-Instituto de Ciencias Nucleares
+Investigador en el grupo de Gravitación y Teoría de Campos del Instituto de Ciencias Nucleares UNAM
 
 ## Posiciones anteriores
 
