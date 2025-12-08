@@ -1,32 +1,47 @@
 # Edgar Gasperín
 
-¡Hola! mi nombre es Edgar Gasperín, soy un investigador en Relatividad General que está por incorporarse al Instituto de Ciencias Nucleares de la UNAM (enero 2026).
-He creado esta página para presentarme con la comunidad estudiantil. Si eres un estudiante de Física o Matemáticas interesado en Relatividad te invito a echarle un vistazo a mi página personal.
+¡Hola! Soy Edgar Gasperín, investigador en Relatividad General y a partir de enero de 2026 me uniré al Instituto de Ciencias Nucleares de la UNAM.  
+He creado esta página para presentarme a la comunidad estudiantil. Si estudias Física o Matemáticas y te interesa la Relatividad, aquí encontrarás información sobre mi investigación, mis cursos y oportunidades de tesis.
 
 ## ¿Qué es la Relatividad Matemática?
 
- La Relatividad General es la teoría que describe la gravedad a través de la geometría del espacio-tiempo y, además de ser uno de los pilares de la física actual, es considerada por muchos como un estandarte de las matemáticas aplicadas.
- De manera concisa las ecuaciones que rigen al espacio-tiempo son las ecuaciones de Einstein, las cuales pueden formularse como un sistema de ecuaciones diferenciales parciales no lineales. Por tanto,  una manera de clasificar las diferentes ramas de la Relatividad es preguntarse ¿cómo se resuelven las ecuaciones de Einstein?
- Como la historia de cualquier otra ecuación diferencial no lineal al principio se encontraron soluciones exactas de manera explícita de las cuales aprendimos muchísimas cosa pero estas soluciones son válidas en casos muy simplificados (muchas simetrías) y posteriormente nos dimos cuenta que para obtener soluciones más complejas (y realistas) hay dos opciones:  hacer alguna aproximación o bién dejar la idea de obtener soluciones explícitas y obtener resultados abstractos (teoremas) sobre dichas soluciones. En el caso de las aproximaciones podemos por ejemplo considerar aproximaciones numéricas, lo cual da origen al área de Relatividad Numérica o introducir aproximaciones a nivel de las ecuaciones por ejemplo considerar la linearización de las ecuaciones de Einstein, lo cual da origen por ejemplo a la teoría de perturbaciones lineales en Relatividad General. Estas dos áreas son algunos de los pilares actuales para el estudio de ondas gravitacionales. Finalmente, la Relatividad Matemática se dedica al estudio abstracto de soluciones a las ecuaciones de Einstein combinando principalmente teoría de ecuaciones diferenciales parciales y geometría diferencial.  Todas estas áreas de Relatividad se complementan entre sí para entender el comportamiento de soluciones de esta teoría centenaria.
+La Relatividad General es la teoría que explica la gravedad como una manifestación de la geometría del espacio-tiempo. Más que un pilar de la física moderna, es considerada por muchos como un **estandarte de las matemáticas aplicadas**.  
 
+Las ecuaciones que describen el espacio-tiempo son las **ecuaciones de Einstein**, un sistema de ecuaciones diferenciales parciales no lineales. Una forma natural de dividir las ramas de la Relatividad es preguntarse: ¿cómo se pueden resolver estas ecuaciones?
 
-##  ¿De que trata mi investigación?
+Al inicio, se encontraron soluciones exactas que nos enseñaron muchísimo, pero eran válidas solo en casos muy simplificados con muchas simetrías. Para abordar situaciones más complejas y realistas hay dos caminos: **hacer aproximaciones** o **estudiar propiedades abstractas de las soluciones** mediante teoremas.
 
-Mi investigación se centra en el estudio de la región en infinito en Relatividad General.
-Resulta que en Relatividad General hay varios tipos de infinito, un infinito en el espacio (muy, muy lejos), un infinito en el tiempo (muy, muy temprano o tarde) y un infinito en la dirección en la que se propaga la luz (muy "lejos" en direcciones nulas). A esta región se le conoce en Relatividad como la frontera conforme. Mi investigación en Relatividad Matemática utiliza tecnicas geométricas y de teoría de ecuaciones diferenciales parciales para entender esta región del espacio-tiempo. Asimismo, colaboro con Relativistas Numéricos en la investigación de la frontera conforme a través de formulaciones novedosas de las ecuaciones de Einstein que permitan accesar a esta región en infinito.
+En cuanto a aproximaciones, podemos usar **métodos numéricos**, lo que da origen a la **Relatividad Numérica**, o simplificar las ecuaciones, por ejemplo mediante su **linearización**, que conduce a la teoría de perturbaciones lineales. Ambas áreas son hoy fundamentales para estudiar **ondas gravitacionales**.
+
+Por otro lado, la **Relatividad Matemática** se dedica al estudio abstracto de las soluciones de las ecuaciones de Einstein, combinando **geometría diferencial** y **teoría de ecuaciones diferenciales parciales**. Todas estas áreas se complementan para entender a fondo el comportamiento de las soluciones de esta teoría centenaria.
+
+## ¿Quién soy y de qué trata mi investigación?
+
+Mi investigación se centra en la **región en infinito** del espacio-tiempo.  
+En Relatividad General, existen distintos tipos de infinito:  
+- un **infinito espacial** (muy, muy lejos),  
+- un **infinito temporal** (muy temprano o muy tardío),  
+- y un **infinito nulo** (en las direcciones por las que viaja la luz).  
+
+Esta región se llama **frontera conforme**. Utilizo técnicas geométricas y de ecuaciones diferenciales parciales para entender estas zonas del espacio-tiempo. Además, colaboro con relativistas numéricos para estudiar la frontera conforme mediante formulaciones de las ecuaciones de Einstein que permitan acceder a estas regiones “en el infinito”.
 
 ## La frontera conforme: la última frontera
 
-En la historía de la física y las matemáticas el concepto de infinito ha sido clave. ¡Sin el no existiría el cálculo diferencial!
-A pesar de estar "muy lejos", la región en infinito, no es sólo de interés puramente matemático sino que juega un papel muy importante en conceptos físicos clave. Por ejemplo las diferentes nociones de importancia física como la masa y radiación gravitacional (ondas gravitacionales) están definidas de manera rigurosa en alguno de los infinitos del espacio-tiempo. Probablemente en tus cursos de geometría o de cálculo ya te has topado con la "versión Riemanniana" de la frontera conforme en Relatividad: En la proyección estereográfica la región en infinito en el plano se mapea a uno de los polos de la esfera. La diferencia con Relatividad General es que, a diferencia del caso Riemanniano, la región en infinito no es sólo un punto sino una variedad. Esto nos permite por ejemplo "hacer geometría en infinito".
+El concepto de infinito ha sido fundamental en la historia de la física y las matemáticas. ¡Sin él, no existiría el cálculo diferencial!  
+Aunque está “muy lejos”, el infinito no es solo un concepto abstracto: es clave para definir cantidades físicas como la **masa** o la **radiación gravitacional** (ondas gravitacionales).  
+
+En cursos de geometría o cálculo probablemente hayas visto la versión Riemanniana de la frontera conforme: en la **proyección estereográfica**, el infinito del plano se mapea a un polo de la esfera. En Relatividad General, el infinito es más que un punto: es una **variedad** completa, lo que nos permite, por ejemplo, “hacer geometría en infinito”.
 
 ## Temas de tesis y servicio social
 
-Si estas interesado en hacer una tesis en alguno de estos temas ponte en contacto conmigo. 
+Si quieres realizar una tesis en alguno de estos temas, no dudes en contactarme. Hay oportunidades tanto en investigación teórica como en colaboración con relativistas numéricos.
 
 ## Curso de Relatividad en la Facultad de Ciencias (2026)
 
-En febrero de 2026 comenzará el curso de Relatividad que impartiré en la Facultad de Ciencias de la UNAM. Aunque el curso será un curso estándar, presencial, usando el pizarron y siguiendo el temario oficial de la facultad de ciencias. Se incluirá un pequeño taller introductorio sobre el uso de xAct de Mathematica para realizar cálculos tensoriales. xAct es una herramienta que uso cotidianamente en mi investigación. No se trata de una herramienta numérica, sino de una herramienta de cálculo simbólico. Para saber más sobre algunas versiones de extendidas de este taller puedes consultar: [xAct] https://edgargasperin.github.io/xact-workshop/
+En febrero de 2026 impartiré un curso de Relatividad en la Facultad de Ciencias de la UNAM.  
+Será un curso presencial, usando el pizarrón y siguiendo el temario oficial, pero incluirá un **taller introductorio de xAct en Mathematica**, una herramienta de cálculo simbólico que uso a diario en mi investigación para cálculos tensoriales. xAct no es una herramienta numérica, sino simbólica, y permite explorar la Relatividad de manera práctica.  
+
+Para conocer algunas versiones extendidas del taller, consulta: [xAct](https://edgargasperin.github.io/xact-workshop/)
 
 ## Trayectoria
 
