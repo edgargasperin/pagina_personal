@@ -28,7 +28,7 @@ En Relatividad General, existen distintos tipos de infinito:
 
 Esta región se llama **frontera conforme**. Utilizo técnicas geométricas y de ecuaciones diferenciales parciales para entender estas zonas del espacio-tiempo. Además, colaboro con relativistas numéricos para estudiar la frontera conforme mediante formulaciones de las ecuaciones de Einstein que permitan acceder a estas regiones “en el infinito”.
 
-## Al infinito y más allá:
+## Al infinito y más allá
 
 El concepto de infinito ha sido fundamental en la historia de la física y las matemáticas. ¡Sin él, no existiría el cálculo diferencial!  
 Aunque está “muy lejos”, el infinito no es solo un concepto abstracto: es clave para definir cantidades físicas como la masa o la radiación gravitacional (ondas gravitacionales).  
