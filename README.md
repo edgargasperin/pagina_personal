@@ -7,7 +7,7 @@ Si estudias Física o Matemáticas y te interesa la Relatividad, aquí encontrar
 <details>
   <summary><strong>¿Qué es la Relatividad Matemática?</strong></summary>
 
-  <p>
+<p>
 La Relatividad General es la teoría que explica la gravedad como una manifestación de la geometría del espacio-tiempo. Más que un pilar de la física moderna, es considerada por muchos como un estandarte de las matemáticas aplicadas.  
 
 Las ecuaciones que describen el espacio-tiempo son las ecuaciones de Einstein, un sistema de ecuaciones diferenciales parciales no lineales. Una forma natural de dividir las ramas de la Relatividad es preguntarse: ¿cómo se pueden resolver estas ecuaciones?
@@ -20,9 +20,11 @@ Por otro lado, la Relatividad Matemática se dedica al estudio abstracto de las 
 
 Todas estas áreas no están aisladas si no que se complementan entre sí para entender a fondo el comportamiento de las soluciones de esta teoría centenaria.
 
-  </p>
+</p>
 
-## ¿De qué trata mi investigación?
+<details>
+  <summary><strong>¿De qué trata mi investigación?</strong></summary>
+<p>
 
 Mi investigación se centra en la **región en infinito** del espacio-tiempo.  
 En Relatividad General, existen distintos tipos de infinito:  
@@ -31,8 +33,11 @@ En Relatividad General, existen distintos tipos de infinito:
 - **infinito nulo** ( $\infty$ para fotones).  
 
 Esta región se llama **frontera conforme**. Utilizo técnicas geométricas y de ecuaciones diferenciales parciales para entender estas zonas del espacio-tiempo. Además, colaboro con relativistas numéricos para estudiar la frontera conforme mediante formulaciones de las ecuaciones de Einstein que permitan acceder a estas regiones “en el infinito”.
+</p>
 
-## Al infinito y más allá
+<details>
+  <summary><strong>Al infinito y más allá</strong></summary>
+<p> 
 
 El concepto de infinito ha sido fundamental en la historia de la física y las matemáticas. ¡Sin él, no existiría el cálculo diferencial!  
 Aunque está “muy lejos”, el infinito no es solo un concepto abstracto: es clave para definir cantidades físicas como la masa o la radiación gravitacional (ondas gravitacionales).  
@@ -56,34 +61,56 @@ De manera análoga en Relatividad tenemos los diagramas de Penrose-Carter que no
 <small> Imagen tomada del libro [conformal-methods](https://doi.org/10.1017/9781009291309).</small>
 
 En ese diagrama se representa infinito espacial ($i^0$), temporal ($i^\pm$) y nulo ($\mathscr{I}^{\pm}$), así como los horizontes ($\mathcal{H}^\pm$) y la singularidad (zig-zag) para el expacio-tiempo de Schwarzchild.
+</p>
 
-
-## Temas de tesis y servicio social
-
+<details>
+  <summary><strong> Temas de tesis y servicio social</strong></summary>
+<p> 
 Si quieres realizar una tesis o servicio social en alguno de estos temas, no dudes en contactarme al correo:
 
 e[dot]gasperin[at]ciencias[dot]unam[dot]mx
 
-## Curso de Relatividad en la Facultad de Ciencias (2026)
+</p>
+
+
+<details>
+  <summary><strong> Curso de Relatividad en la Facultad de Ciencias (2026)</strong></summary>
+<p> 
 
 En febrero de 2026 impartiré un curso de Relatividad en la Facultad de Ciencias de la UNAM.  
 Será un curso presencial, usando el pizarrón y siguiendo el temario oficial, pero incluirá un **taller introductorio de xAct en Mathematica**, una herramienta de cálculo simbólico que uso cotidianamente en mi investigación para cálculos tensoriales. xAct no es una herramienta numérica, sino de álgebra simbólica, y permite relizar cálculos tensoriales de manera eficiente.
 
 Para conocer algunas versiones extendidas del taller, consulta: [xAct](https://edgargasperin.github.io/xact-workshop/)
+</p>
 
-## Trayectoria
+
+<details>
+  <summary><strong>  Trayectoria </strong></summary>
+ <p> 
 
 Puedes consultar mi CV en el siguiente link:  [CV](https://edgargasperin.github.io/)
 
-## Publicaciones
+</p>
 
+
+<details>
+  <summary><strong>  Publicaciones </strong></summary>
+
+<p> 
 Para saber más sobre mi investigación puedes consultar mis artículos aquí:
 
 [ORCID](https://orcid.org/0000-0003-1170-5121)
 
 [Arxiv](https://arxiv.org/search/?searchtype=author&query=Gasperin%2C+E)
 
-## Charlas de investigación
+</p>
+
+
+<details>
+  <summary><strong>  
+Charlas de investigación </strong></summary>
+  
+<p> 
 
 Algunas de mis charlas de investigación grabadas se pueden encontrar aquí:
 
@@ -92,8 +119,12 @@ Algunas de mis charlas de investigación grabadas se pueden encontrar aquí:
 [Video - CENTRA seminar Lisbon](https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s)
 
 [Video F-Ciencias UNAM](https://www.facebook.com/matefcienciasunam/videos/333825669643721/)
+</p>
 
-## Divulgación
+
+<details>
+  <summary><strong>  Divulgación </strong></summary>
+<p>
 
 Charla de divulgación en la Agencia Espacial Mexicana (México)  
 [Video](https://www.gob.mx/aem/videos/seminario-agujeros-negros-y-efectos-relativistas-en-viajes-espaciales-parte-i)
@@ -114,3 +145,4 @@ Charla en VIII Jornadas de Engenharia Física en IST (Lisboa).
 
 Mesa redonda en VIII Jornadas de Engenharia Física en IST (Lisboa).  
 [Video](https://www.youtube.com/watch?v=YA02G94OeV0)
+</p>
