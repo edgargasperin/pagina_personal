@@ -4,8 +4,10 @@
 
 Si estudias Física o Matemáticas y te interesa la Relatividad, aquí encontrarás información sobre mi investigación, cursos y oportunidades de tesis y servicio social.
 
-## ¿Qué es la Relatividad Matemática?
+<details>
+  <summary><strong>¿Qué es la Relatividad Matemática?</strong></summary>
 
+  <p>
 La Relatividad General es la teoría que explica la gravedad como una manifestación de la geometría del espacio-tiempo. Más que un pilar de la física moderna, es considerada por muchos como un estandarte de las matemáticas aplicadas.  
 
 Las ecuaciones que describen el espacio-tiempo son las ecuaciones de Einstein, un sistema de ecuaciones diferenciales parciales no lineales. Una forma natural de dividir las ramas de la Relatividad es preguntarse: ¿cómo se pueden resolver estas ecuaciones?
@@ -17,6 +19,8 @@ En cuanto a "aproximaciones" (entre comillas porque los resultados son extremada
 Por otro lado, la Relatividad Matemática se dedica al estudio abstracto de las soluciones de las ecuaciones de Einstein, combinando geometría diferencial y teoría de ecuaciones diferenciales parciales. Si quieres consultar un artículo sobre los resultados clave de la Relatividad Matemática en el estudio de las ondas gravitacionales, haz clic aquí: [GWmaths](https://www.ams.org/publications/journals/notices/201707/rnoti-p684.pdf)
 
 Todas estas áreas no están aisladas si no que se complementan entre sí para entender a fondo el comportamiento de las soluciones de esta teoría centenaria.
+
+  </p>
 
 ## ¿De qué trata mi investigación?
 
