@@ -31,12 +31,6 @@ Si estudias Física o Matemáticas y te interesa la Relatividad, aquí encontrar
 
 ---
 
-## Contenidos
-
-(Abre las secciones para leer más.)
-
----
-
 <!-- ============================ -->
 <!-- ¿Qué es la Relatividad Matemática? -->
 <!-- ============================ -->
@@ -88,9 +82,8 @@ Esta región se llama <strong>frontera conforme</strong>. Utilizo técnicas geom
 <!-- ============================ -->
 
 <details>
-  <summary><strong>Al infinito y más allá</strong></summary>
+<summary><strong>Al infinito y más allá</strong></summary>
 
-<p>
 El concepto de infinito ha sido fundamental en la historia de la física y las matemáticas. ¡Sin él, no existiría el cálculo diferencial!  
 Aunque está “muy lejos”, el infinito no es solo un concepto abstracto: es clave para definir cantidades físicas como la masa o la radiación gravitacional (ondas gravitacionales).  
 
@@ -99,9 +92,8 @@ En cursos de geometría o cálculo probablemente hayas visto la versión Riemann
 <div style="text-align:center">
   <img src="files/img/Escher_palais.jpeg" alt="Escher" width="400"/>
 </div>
-<small> Imagen tomada de la página web <a href="https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell">Escher in Het Paleis</a> </small>
 
-<br>
+<small> Imagen tomada de la página web <a href="https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell">Escher in Het Paleis</a> </small>
 
 En ‘Circle Limit IV’ o ‘Heaven and Hell’ Escher muestra como se vería un mosaico (plano) de ángeles y demonios representados en el disco de Poincaré; los ángeles y demonios en la orilla del círculo están en "infinito".
 
@@ -110,14 +102,14 @@ De manera análoga en Relatividad tenemos los diagramas de Penrose–Carter que 
 <div style="text-align:center">
   <img src="files/img/Schwarzchild_penrose.png" alt="Schwarzschild" width="500"/>
 </div>
+
 <small> Imagen tomada del libro <a href="https://doi.org/10.1017/9781009291309">conformal-methods</a> </small>
 
-<br>
-
-En ese diagrama se representa infinito espacial ($i^0$), temporal ($i^\pm$) y nulo ($\mathscr{I}^{\pm}$), así como los horizontes ($\mathcal{H}^\pm$) y la singularidad (zig-zag) para el espacio-tiempo de Schwarzschild.
-</p>
+En ese diagrama se representa infinito espacial \(i^0\), temporal \(i^\pm\) y nulo \(\mathscr{I}^{\pm}\), así como los horizontes \(\mathcal{H}^\pm\) y la singularidad (zig-zag) para el espacio-tiempo de Schwarzschild.
 
 </details>
+
+
 
 ---
 
