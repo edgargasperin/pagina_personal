@@ -12,6 +12,11 @@ details p {
 }
 </style>
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 # Página personal
 
 ¡Hola a todes! Soy Edgar Gasperín, investigador en Relatividad General y a partir de enero de 2026 me incorporaré al Instituto de Ciencias Nucleares de la UNAM.  
@@ -78,6 +83,8 @@ En cursos de geometría o cálculo probablemente hayas visto la versión Riemann
 </div>
 <small> Imagen tomada de la página web <a href="https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell">Escher in Het Paleis</a> </small>
 
+<br>
+
 En ‘Circle Limit IV’ o ‘Heaven and Hell’ Escher muestra como se vería un mosaico (plano) de ángeles y demonios representados en el disco de Poincaré; los ángeles y demonios en la orilla del círculo están en "infinito".
 
 De manera análoga en Relatividad tenemos los diagramas de Penrose–Carter que nos permiten “comprimir” la extensión infinita del espacio-tiempo en un solo dibujo. Por ejemplo, la siguiente figura representa un espacio-tiempo que contiene un agujero negro:
@@ -86,6 +93,8 @@ De manera análoga en Relatividad tenemos los diagramas de Penrose–Carter que 
   <img src="files/img/Schwarzchild_penrose.png" alt="Schwarzschild" width="500"/>
 </div>
 <small> Imagen tomada del libro <a href="https://doi.org/10.1017/9781009291309">conformal-methods</a> </small>
+
+<br>
 
 En ese diagrama se representa infinito espacial ($i^0$), temporal ($i^\pm$) y nulo ($\mathscr{I}^{\pm}$), así como los horizontes ($\mathcal{H}^\pm$) y la singularidad (zig-zag) para el espacio-tiempo de Schwarzschild.
 </p>
