@@ -1,10 +1,22 @@
+<style>
+/* Space above each subtitle */
+summary {
+  font-size: 1.15em;
+  margin-top: 30px;      /* space above title */
+  margin-bottom: 12px;   /* space between title and text */
+}
+
+/* Space between text blocks inside details */
+details p {
+  margin-top: 10px;
+}
+</style>
+
 # Página personal
 
 ¡Hola a todes! Soy Edgar Gasperín, investigador en Relatividad General y a partir de enero de 2026 me incorporaré al Instituto de Ciencias Nucleares de la UNAM.  
 
 Si estudias Física o Matemáticas y te interesa la Relatividad, aquí encontrarás información sobre mi investigación, cursos y oportunidades de tesis y servicio social.
-
-<br>
 
 <!-- ============================ -->
 <!-- ¿Qué es la Relatividad Matemática? -->
@@ -29,8 +41,6 @@ Todas estas áreas no están aisladas sino que se complementan entre sí para en
 
 </details>
 
-<br>
-
 <!-- ============================ -->
 <!-- ¿De qué trata mi investigación? -->
 <!-- ============================ -->
@@ -49,8 +59,6 @@ Esta región se llama <strong>frontera conforme</strong>. Utilizo técnicas geom
 </p>
 
 </details>
-
-<br>
 
 <!-- ============================ -->
 <!-- Al infinito y más allá -->
@@ -84,8 +92,6 @@ En ese diagrama se representa infinito espacial ($i^0$), temporal ($i^\pm$) y nu
 
 </details>
 
-<br>
-
 <!-- ============================ -->
 <!-- Temas de tesis y servicio social -->
 <!-- ============================ -->
@@ -100,8 +106,6 @@ e[dot]gasperin[at]ciencias[dot]unam[dot]mx
 </p>
 
 </details>
-
-<br>
 
 <!-- ============================ -->
 <!-- Curso Relatividad -->
@@ -119,8 +123,6 @@ Para conocer algunas versiones extendidas del taller, consulta: <a href="https:/
 
 </details>
 
-<br>
-
 <!-- ============================ -->
 <!-- Trayectoria -->
 <!-- ============================ -->
@@ -133,8 +135,6 @@ Puedes consultar mi CV en el siguiente link: <a href="https://edgargasperin.gith
 </p>
 
 </details>
-
-<br>
 
 <!-- ============================ -->
 <!-- Publicaciones -->
@@ -153,8 +153,6 @@ Para saber más sobre mi investigación puedes consultar mis artículos aquí:
 
 </details>
 
-<br>
-
 <!-- ============================ -->
 <!-- Charlas -->
 <!-- ============================ -->
@@ -172,8 +170,6 @@ Algunas de mis charlas de investigación grabadas se pueden encontrar aquí:
 </p>
 
 </details>
-
-<br>
 
 <!-- ============================ -->
 <!-- Divulgación -->
