@@ -37,7 +37,7 @@ En cursos de geometría o cálculo probablemente hayas visto la versión Riemann
 
 
 <div style="text-align:center">
-  <img src="/files/img/Escher_palais.jpeg" alt="Escher" width="400"/>
+  <img src="files/img/Escher_palais.jpeg" alt="Escher" width="400"/>
 </div>
 <small> Imagen tomada de la página web [Escher in Het Paleis](https://escherinhetpaleis.nl/en/about-escher/escher-today/circle-limit-iv-heaven-and-hell) </small>
 
@@ -47,7 +47,7 @@ En ‘Circle Limit IV’ o ‘Heaven and Hell’ Escher muestra como se vería u
 De manera análoga en Relatividad tenemos los diagramas de Penrose-Carter que nos permiten “comprimir” la extensión infinita del espacio-tiempo en un solo dibujo; Por ejemplo, la siguiente figura representa un espacio-tiempo que contiene un agujero negro:
 
 <div style="text-align:center">
-  <img src="/files/img/Schwarzchild_penrose.png" alt="Schwarzschild" width="500"/>
+  <img src="files/img/Schwarzchild_penrose.png" alt="Schwarzschild" width="500"/>
 </div>
 <small> Imagen tomada del libro [conformal-methods](https://doi.org/10.1017/9781009291309).</small>
 
