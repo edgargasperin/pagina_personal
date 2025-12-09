@@ -97,3 +97,85 @@ Por ejemplo, la siguiente figura representa un espacio-tiempo que contiene un ag
 En ese diagrama se representa infinito espacial \(i^0\), temporal \(i^\pm\) y nulo \(\mathscr{I}^{\pm}\), así como los horizontes \(\mathcal{H}^\pm\) y la singularidad (zig-zag) para el espacio-tiempo de Schwarzschild.
 
 </details>
+
+---
+
+<details>
+  <summary><strong>Temas de tesis y servicio social</strong></summary>
+
+Si quieres realizar una tesis o servicio social en alguno de estos temas, no dudes en contactarme al correo:
+
+e[dot]gasperin[at]ciencias[dot]unam[dot]mx
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Curso de Relatividad en la Facultad de Ciencias (2026)</strong></summary>
+
+En febrero de 2026 impartiré un curso de Relatividad en la Facultad de Ciencias de la UNAM.
+
+Será un curso presencial, usando el pizarrón y siguiendo el temario oficial, pero incluirá un **taller introductorio de xAct en Mathematica**, una herramienta de cálculo simbólico que uso cotidianamente en mi investigación. xAct no es una herramienta numérica, sino de álgebra simbólica, que permite realizar cálculos tensoriales de manera eficiente.
+
+Para conocer algunas versiones extendidas del taller, consulta: <a href="https://edgargasperin.github.io/xact-workshop/">xAct</a>.
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Trayectoria</strong></summary>
+
+Puedes consultar mi trayectoria en el siguiente link: <a href="https://edgargasperin.github.io/">CV</a>.
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Publicaciones</strong></summary>
+
+Para saber más sobre mi investigación puedes consultar mis artículos aquí:
+
+<a href="https://orcid.org/0000-0003-1170-5121">ORCID</a>  
+<a href="https://arxiv.org/search/?searchtype=author&query=Gasperin%2C+E">ArXiv</a>
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Charlas de investigación</strong></summary>
+
+Algunas de mis charlas de investigación grabadas se pueden encontrar aquí:
+
+<a href="https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X">Video - Royal Society London</a>  
+<a href="https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s">Video - CENTRA seminar Lisbon</a>  
+<a href="https://www.facebook.com/matefcienciasunam/videos/333825669643721/">Video F-Ciencias UNAM</a>
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Divulgación</strong></summary>
+
+Charla de divulgación en la Agencia Espacial Mexicana (México)  
+<a href="https://www.gob.mx/aem/videos/seminario-agujeros-negros-y-efectos-relativistas-en-viajes-espaciales-parte-i">Video</a>
+
+Entrevista en la Agencia Espacial Mexicana (México)  
+<a href="http://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=989">Video</a>
+
+Participación en Radio UNAM (México)  
+<a href="https://www.radiopodcast.unam.mx/podcast/audio/18778">website</a>
+
+Charla de divulgación en el Planetario de Orizaba (México)  
+Charla de divulgación en Pint of Science (Londres)  
+Charla de divulgación en NAPE skills factory (Lisboa)  
+Charla en VIII Jornadas de Engenharia Física en IST (Lisboa)  
+Mesa redonda en VIII Jornadas de Engenharia Física en IST (Lisboa)  
+<a href="https://www.youtube.com/watch?v=YA02G94OeV0">Video</a>
+
+</details>
+
