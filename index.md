@@ -25,7 +25,7 @@ details p, details ul {
 
 <h1>Página personal</h1>
 
-<p>¡Hola! mi nombre es Edgar Gasperín, soy un investigador de reciente contratación (enero 2026) del departamento de Gravitación y Teoría de Campos del Instituto de Ciencias Nucleares de la UNAM.</p>
+<p>¡Hola! mi nombre es Edgar Gasperín. Soy un investigador de reciente contratación (enero 2026) del departamento de Gravitación y Teoría de Campos del Instituto de Ciencias Nucleares de la UNAM.</p>
 
 <p>Si estudias Física o Matemáticas y te interesa la Relatividad, aquí encontrarás información sobre mi investigación, cursos y oportunidades de tesis y servicio social.</p>
 
