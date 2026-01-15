@@ -114,7 +114,7 @@ details p, details ul {
 <details>
   <summary><strong>Curso de Relatividad en la Facultad de Ciencias (2026)</strong></summary>
 
-<p>En febrero de 2026 impartiré un curso de Relatividad en la Facultad de Ciencias de la UNAM.</p>
+<p>A partir de febrero de 2026 impartiré un curso de Relatividad en la Facultad de Ciencias de la UNAM.</p>
 
 <p>Será un curso presencial, usando el pizarrón y siguiendo el temario oficial, pero incluirá un <strong>taller introductorio de xAct en Mathematica</strong>, una herramienta de cálculo simbólico que uso cotidianamente en mi investigación. xAct no es una herramienta numérica, sino de álgebra simbólica, que permite realizar cálculos tensoriales de manera eficiente.</p>
 
