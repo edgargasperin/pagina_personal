@@ -120,6 +120,10 @@ details p, details ul {
 
 <p>Para conocer algunas versiones extendidas del taller, consulta: <a href="https://edgargasperin.github.io/xact-workshop/">xAct</a>.</p>
 
+<p>Para conocer más detalles del curso, consulta: <a href="https://www.fciencias.unam.mx/docencia/horarios/presentacion/370116">curso</a>.</p>
+
+
+
 </details>
 
 <hr>
