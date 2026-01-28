@@ -105,7 +105,7 @@ details p, details ul {
   <summary><strong>Temas de tesis y servicio social</strong></summary>
 
 <p>Si quieres realizar una tesis o servicio social en alguno de estos temas, no dudes en contactarme al correo:</p>
-<p>e[dot]gasperin[at]ciencias[dot]unam[dot]mx</p>
+<p>e[dot]gasperin[at]nucleares[dot]unam[dot]mx</p>
 
 </details>
 
