@@ -157,7 +157,7 @@ details p, details ul {
 <p>Algunas de mis charlas de investigación grabadas se pueden encontrar aquí:</p>
 
 <p>
-<a href="https://www.youtube.com/watch?v=vNfy47TJPzE">Video - coloquio ICN - UNAM</a><br>  
+<a href="https://www.youtube.com/watch?v=vNfy47TJPzE">Video - Coloquio ICN - UNAM</a><br>  
 <a href="https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X">Video - Royal Society London</a><br>
 <a href="https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s">Video - CENTRA seminar Lisbon</a><br>
 <a href="https://www.facebook.com/matefcienciasunam/videos/333825669643721/">Video F-Ciencias UNAM</a>
