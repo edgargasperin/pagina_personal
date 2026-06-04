@@ -114,14 +114,17 @@ details p, details ul {
 <details>
   <summary><strong>Curso de Relatividad en la Facultad de Ciencias (2026)</strong></summary>
 
-<p>A partir de febrero de 2026 impartiré un curso de Relatividad en la Facultad de Ciencias de la UNAM.</p>
 
-<p>Será un curso presencial, usando el pizarrón y siguiendo el temario oficial, pero incluirá un <strong>taller introductorio de xAct en Mathematica</strong>, una herramienta de cálculo simbólico que uso cotidianamente en mi investigación. xAct no es una herramienta numérica, sino de álgebra simbólica, que permite realizar cálculos tensoriales de manera eficiente.</p>
+<p>Semestre 2026-II: Relatividad  (F-Ciencias UNAM).</p>
+  <a href="https://www.fciencias.unam.mx/docencia/horarios/presentacion/370116">curso</a>.</p>
+ 
+
+<p>Semestre 2027-I:  Temas Selectos de Relatividad, Cosmología y Gravitación III (F-Ciencias UNAM).</p>
+<a href="https://forms.gle/3Eg7Uta95HZE73Be9">encuesta</a>.</p>
+
+<p> Ambos cursos son presenciales, usando el pizarrón y siguiendo el temario oficial, pero incluyó un <strong>taller introductorio de xAct en Mathematica</strong>, una herramienta de cálculo simbólico que uso cotidianamente en mi investigación. xAct no es una herramienta numérica, sino de álgebra simbólica, que permite realizar cálculos tensoriales de manera eficiente.</p>
 
 <p>Para conocer algunas versiones extendidas del taller, consulta: <a href="https://edgargasperin.github.io/xact-workshop/">xAct</a>.</p>
-
-<p>Para conocer más detalles del curso, consulta: <a href="https://www.fciencias.unam.mx/docencia/horarios/presentacion/370116">curso</a>.</p>
-
 
 
 </details>
