@@ -112,7 +112,7 @@ details p, details ul {
 <hr>
 
 <details>
-  <summary><strong>Curso de Relatividad en la Facultad de Ciencias (2026)</strong></summary>
+  <summary><strong>Cursos en la Facultad de Ciencias (2026)</strong></summary>
 
 
 <p>Semestre 2026-II: Relatividad  (F-Ciencias UNAM).</p>
