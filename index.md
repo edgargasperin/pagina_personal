@@ -120,7 +120,7 @@ details p, details ul {
  
 
 <p>Semestre 2027-I:  Temas Selectos de Relatividad, Cosmología y Gravitación III (F-Ciencias UNAM).</p>
-<p><a href="https://forms.gle/3Eg7Uta95HZE73Be9">encuesta</a>.</p>
+<p><a href="https://www.fciencias.unam.mx/docencia/horarios/20271/1081/2028">curso</a>.</p>
 
 <p> Ambos cursos son presenciales, usando el pizarrón, pero incluye un <strong>taller introductorio de xAct en Mathematica</strong>, una herramienta de cálculo simbólico que uso cotidianamente en mi investigación. xAct no es una herramienta numérica, sino de álgebra simbólica, que permite realizar cálculos tensoriales de manera eficiente.</p>
 
